@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <include layout="@layout/fml_title"/>
+    <Button
+        android:id="@+id/main_define_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:text="自定义刷新效果"/>
+    <Button
+        android:id="@+id/main_define_load"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:text="自定义加载效果"/>
+    <Button
+        android:id="@+id/main_define_refreshwidthload"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:text="自定义刷新和加载效果"/>
+    <Button
+        android:id="@+id/main_define_other_styles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:text="GridView和瀑布流刷新和加载样式"/>
+    <Button
+        android:id="@+id/main_define_sliding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:text="侧滑删除"/>
+</LinearLayout>
