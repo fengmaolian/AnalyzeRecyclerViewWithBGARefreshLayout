@@ -1,3 +1,4 @@
 # AnalyzeRecyclerViewWithBGARefreshLayout
 Recycler+BGARefreshLayout实现自定义刷新和加载以及侧滑删除
+
 ![image](https://github.com/fengmaolian/AnalyzeRecyclerViewWithBGARefreshLayout/blob/master/AnalyzeRecyclerViewWithBGARefreshLayout/screenshots/20151207160712372.gif)
